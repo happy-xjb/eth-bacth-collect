@@ -26,7 +26,7 @@ public class EthBatchCollect {
     // 定义常量
 
     // 主钱包地址，用于接收所有转账的ETH
-    private static final String MAIN_WALLET_ADDRESS = "0xE7b5C27B7F87B1F8774A8aC09D090433C48802E3";
+    private static final String MAIN_WALLET_ADDRESS = "0xE7b5C27B7F87B1F8774A8aC09D090433C48802E2";
 
     // 以太坊节点的RPC URL，用于连接以太坊网络
     private static final String NETWORK_RPC = "https://eth.drpc.org";
